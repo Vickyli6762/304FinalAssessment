@@ -1,5 +1,5 @@
 ---
-title: "Analysis of how everyone's voting behavior in 2019 Canadian Federal Election"
+title: "Analysis of How Everyone's Voting Behavior in 2019 Canadian Federal Election"
 author: "Yuxin Li(1002330998)"
 date: "21/12/2020"
 output:
